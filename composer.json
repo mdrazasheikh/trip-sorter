@@ -1,0 +1,22 @@
+{
+  "name": "raza/trip-sorter",
+  "description": "trip sorter",
+  "type": "project",
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.0"
+  },
+  "authors": [
+    {
+      "name": "Mohammed Raza Sheikh",
+      "email": "mdrazasheikh@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Src\\": "Src/"
+    }
+  }
+}
